@@ -1,11 +1,11 @@
 {
   "private": true,
   "name": "cara",
-  "description": "Playful and Colorful One-Page portfolio featuring Parallax effects and animations",
+  "description": "letintegrate is a place for getting integrations and automatons done between different systems.",
   "version": "0.2.10",
   "author": "Lakshma Kusam <lakshma.kusam@letsintegrate.net>",
   "license": "0BSD",
-  "starter-name": "LetsIntgrates - Automation by Lakshma",
+  "starter-name": "LetsIntegrates - Automation by Lakshma",
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
