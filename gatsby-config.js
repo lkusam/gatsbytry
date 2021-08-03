@@ -8,7 +8,14 @@ module.exports = {
     // You can overwrite values here that are used for the SEO component
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/master/themes/gatsby-theme-cara/gatsby-config.js
-    siteTitleAlt: `Cara - Gatsby Starter Portfolio`,
+    siteTitleAlt: `LetsIntegrate - Lakshma Kusam`,
+    siteTitle: `LetsIntegrate`,
+    siteHeadline: `LetsIntegrate by Lakshma kusam`,
+    siteUrl: `https://letsintegrat.net`,
+    siteDescription: `Lets automate and integrate things together`,
+    siteLanguage: `en`,
+    siteImage: `/banner.jpg`,
+    author: `@lakshmakusam`,
   },
   plugins: [
     {
